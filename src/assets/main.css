@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('/src/assets/fonts/DM_Sans/static/POIAeronautTrial-Regular.otf');
+@import url('/src/assets/fonts/DM_Sans/static/POIPerianthTrial-Regular.otf');
+@import url('/src/assets/fonts/DM_Sans/static/OldStandardTT-Regular.ttf');
+
+
+
+body {
+    font-family: 'POIAeronautTrial-Regular', serif;
+    font-family: "DM Sans", sans-serif;
+    font-family: "Cardo", serif;
+    font-family: "POIPerianthTrial-Regular", serif;
+    font-family: "OldStandardTT-Regular.ttf", serif;
+}
